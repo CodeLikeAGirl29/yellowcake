@@ -86,7 +86,7 @@ For the scheduled content to appear on the website we need to deploy our website
 
 1. Setup a Netlify build hook
 
-- Go to https://app.netlify.com/sites/_YOUR_SITE_NAME/setings/deploys/#build-hooks
+- Go to https://app.netlify.com/sites/yellowcake-demo/settings/deploys/#build-hooks
 - Hit build hook button in the build hooks section
 - Give it a name for example: "Automatic deploy Zapier"
 - Select branch, in most cases master will do.
