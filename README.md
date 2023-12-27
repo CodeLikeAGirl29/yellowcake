@@ -1,7 +1,6 @@
 # Yellowcake
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![dependencies](https://img.shields.io/david/thriveweb/yellowcake)](https://img.shields.io/david/thriveweb/yellowcake)
 
 An opinionated starter project for creating lightning-fast websites with [Gatsby](https://gatsbyjs.org) v2 and [Netlify CMS](https://netlifycms.org) v2. Made by [Thrive Web Design on the Gold Coast, Australia](https://thriveweb.com.au)
 
@@ -34,11 +33,15 @@ An opinionated starter project for creating lightning-fast websites with [Gatsby
 
 ## Show me the CMS!
 
-The CMS lives at [\_\_YOUR_SITE_NAME\_\_.netlify.com/admin](https://__YOUR_SITE_NAME__.netlify.com/admin).
+The CMS lives at [yellowcake-demo.netlify.com/admin](https://yellowcake-demo.netlify.app/admin).
 
 ## Developing
 
 1.  Clone your repo to your local machine
+
+```
+git clone https://github.com/codelikeagirl29/yellowcake.git
+```
 
 1.  Install dependencies
 
